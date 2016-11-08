@@ -11,3 +11,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 EditorPerProjectUserSettings
+*.ini
+Saved/Logs/Mult.log
