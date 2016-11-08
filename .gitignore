@@ -13,3 +13,7 @@ Saved
 EditorPerProjectUserSettings
 *.ini
 Saved/Logs/Mult.log
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.png
+Saved/Config/Windows/Engine.ini
+*.log
