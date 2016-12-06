@@ -589,4 +589,150 @@ LogInit: Object subsystem initialized
 [2016.12.06-20.47.37:995][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Pony_mp] ([1] browsable assets)...
 [2016.12.06-20.47.38:039][907]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Pony_mp.Pony_mp]
 [2016.12.06-20.47.38:039][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Pony_mp]
-[2016.12.06-20.47.38:039][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Pony_mp" FILE="D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/Autosaves/Game/Models/P
+[2016.12.06-20.47.38:039][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Pony_mp" FILE="D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/Autosaves/Game/Models/Pony_mp_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.12.06-20.47.38:063][907]LogSavePackage: Save=22.40ms
+[2016.12.06-20.47.38:063][907]LogSavePackage: Moving 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/Pony_mp_Auto2322FBA7D4DD5C9B8B8311EBF7ECE1ACE.tmp' to 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/Autosaves/Game/Models/Pony_mp_Auto2.uasset'
+[2016.12.06-20.47.38:064][907]LogSavePackage:Display: Finished SavePackage D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/Autosaves/Game/Models/Pony_mp_Auto2.uasset
+[2016.12.06-20.47.38:065][907]LogFileHelpers: Auto-saving content packages took 0.318
+[2016.12.06-20.59.59:799][554]LogSavePackage: Save=1177.01ms
+[2016.12.06-20.59.59:799][554]LogSavePackage: Moving 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/map1A41AE6E94982839A9F7D13A097D136FD.tmp' to 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/FirstPersonBP/Maps/map1.umap'
+[2016.12.06-20.59.59:805][554]LogSavePackage:Display: Finished SavePackage D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/FirstPersonBP/Maps/map1.umap
+[2016.12.06-20.59.59:865][554]LogFileHelpers: Saving map 'map1' took 4.219
+[2016.12.06-20.59.59:906][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/FbxScene_text" FILE="D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/FbxScene_text.uasset" SILENT=true
+[2016.12.06-20.59.59:938][554]LogSavePackage: Save=30.33ms
+[2016.12.06-20.59.59:938][554]LogSavePackage: Moving 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/FbxScene_text30A9FCE040AA36B8E00C93AF47610BA3.tmp' to 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/FbxScene_text.uasset'
+[2016.12.06-20.59.59:940][554]LogSavePackage:Display: Finished SavePackage D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/FbxScene_text.uasset
+[2016.12.06-20.59.59:956][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/LAbel-1439217211-45655" FILE="D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/LAbel-1439217211-45655.uasset" SILENT=true
+[2016.12.06-21.00.00:255][554]LogSavePackage: Save=297.21ms
+[2016.12.06-21.00.00:255][554]LogSavePackage: Moving 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/LAbel-1439217211-4565591AD0EEE43A563BBF036E4B392512AC1.tmp' to 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/LAbel-1439217211-45655.uasset'
+[2016.12.06-21.00.00:256][554]LogSavePackage:Display: Finished SavePackage D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/LAbel-1439217211-45655.uasset
+[2016.12.06-21.00.00:305][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/lambert1" FILE="D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/lambert1.uasset" SILENT=true
+[2016.12.06-21.00.00:330][554]LogSavePackage: Save=24.15ms
+[2016.12.06-21.00.00:331][554]LogSavePackage: Moving 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/lambert121CC971F41306B66E1FBEAB66A6FC967.tmp' to 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/lambert1.uasset'
+[2016.12.06-21.00.00:333][554]LogSavePackage:Display: Finished SavePackage D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/lambert1.uasset
+[2016.12.06-21.00.00:373][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/pCylinder1" FILE="D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/pCylinder1.uasset" SILENT=true
+[2016.12.06-21.00.00:396][554]LogSavePackage: Save=21.40ms
+[2016.12.06-21.00.00:396][554]LogSavePackage: Moving 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/pCylinder121CE0EE84B2A9E5C72C02F90FB19935D.tmp' to 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/pCylinder1.uasset'
+[2016.12.06-21.00.00:398][554]LogSavePackage:Display: Finished SavePackage D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/Models/pCylinder1.uasset
+[2016.12.06-21.01.07:168][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Pony_Test_mp_02.FBX)
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.12.06-21.01.07:210][866]LogFbx: ItemName: Video, ItemCount : 1
+[2016.12.06-21.01.07:222][866]LogFbx: Loading FBX Scene from F:\Pony_Test_mp_02.FBX
+[2016.12.06-21.01.07:258][866]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.01.16:487][866]LogFbx: Loading FBX Scene from F:\Pony_Test_mp_02.FBX
+[2016.12.06-21.01.16:519][866]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.01.16:561][866]LogStaticMesh: Building static mesh Pony_Test_mp_02...
+[2016.12.06-21.01.17:677][866]LogStaticMesh: Built static mesh [1.12s] /Game/Models/Pony_Test_mp_02.Pony_Test_mp_02
+[2016.12.06-21.01.17:719][866]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.06-21.01.17:719][866]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2016.12.06-21.01.17:808][866]LogAssetTools:Warning: Failed to import 'F:\Pony_Test_skin.COPY'. Unknown extension 'COPY'.
+[2016.12.06-21.01.17:814][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Pony_Test_02.TGA)
+[2016.12.06-21.01.18:404][866]LogTexture:Display: Building textures: Pony_Test_02 (AutoDXT)
+[2016.12.06-21.01.23:891][118]LogActorFactory: Actor Factory created Pony_Test_mp_02
+[2016.12.06-21.01.24:551][161]LogMaterial: Missing cached shader map for material Pony_Test_02_Mat, compiling. 
+[2016.12.06-21.01.24:602][161]LogActorFactory: Actor Factory created Pony_Test_mp_02
+[2016.12.06-21.01.24:649][161]LogMaterial:Warning: Material /Game/Models/Pony_Test_02_Mat.Pony_Test_02_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.12.06-21.01.24:654][161]LogMaterial: Missing cached shader map for material Pony_Test_02_Mat, compiling. 
+[2016.12.06-21.01.24:680][161]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.06-21.01.36:698][873]LogActorFactory: Actor Factory created Pony_Test_mp_02
+[2016.12.06-21.01.45:234][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.12.06-21.01.46:086][467]Cmd: TRANSACTION UNDO
+[2016.12.06-21.01.46:086][467]LogEditorTransaction: Undo Clicking on Actors
+[2016.12.06-21.01.46:416][477]Cmd: TRANSACTION UNDO
+[2016.12.06-21.01.46:416][477]LogEditorTransaction: Undo Create Actors
+[2016.12.06-21.01.46:803][495]Cmd: TRANSACTION UNDO
+[2016.12.06-21.01.46:803][495]LogEditorTransaction: Undo Scale Actors
+[2016.12.06-21.01.47:257][521]Cmd: TRANSACTION UNDO
+[2016.12.06-21.01.47:257][521]LogEditorTransaction: Undo Move Actors
+[2016.12.06-21.01.47:646][541]Cmd: TRANSACTION UNDO
+[2016.12.06-21.01.47:646][541]LogEditorTransaction: Undo Move Actors
+[2016.12.06-21.01.48:009][563]Cmd: TRANSACTION UNDO
+[2016.12.06-21.01.48:010][563]LogEditorTransaction: Undo Create Actors
+[2016.12.06-21.01.51:512][789]LogActorFactory: Actor Factory created Pony_Test_mp_02
+[2016.12.06-21.01.52:002][822]LogActorFactory: Actor Factory created Pony_Test_mp_02
+[2016.12.06-21.01.53:280][900]Cmd: DELETE
+[2016.12.06-21.01.53:280][900]Cmd: ACTOR DELETE
+[2016.12.06-21.01.53:284][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.06-21.01.53:353][900]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2016.12.06-21.02.28:892][148]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Pony_Test_mp_02.FBX)
+[2016.12.06-21.02.28:904][148]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.06-21.02.28:905][148]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.06-21.02.28:905][148]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.06-21.02.28:905][148]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.06-21.02.28:905][148]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.06-21.02.28:905][148]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.06-21.02.28:905][148]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.12.06-21.02.28:905][148]LogFbx: ItemName: Video, ItemCount : 1
+[2016.12.06-21.02.28:914][148]LogFbx: Loading FBX Scene from F:/Pony_Test_mp_02.FBX
+[2016.12.06-21.02.28:945][148]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.02.33:351][148]LogFbx: Loading FBX Scene from F:/Pony_Test_mp_02.FBX
+[2016.12.06-21.02.33:386][148]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.02.33:430][148]LogStaticMesh: Building static mesh Pony_Test_mp_02...
+[2016.12.06-21.02.33:763][148]LogStaticMesh: Built static mesh [0.33s] /Game/Models/Pony_Test_mp_02.Pony_Test_mp_02
+[2016.12.06-21.02.33:823][148]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.06-21.02.33:882][148]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Pony_Test_02.TGA)
+[2016.12.06-21.02.34:152][148]LogTexture:Display: Building textures: Pony_Test_02 (AutoDXT)
+[2016.12.06-21.02.35:146][148]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/Pony_test_mp.fbx)
+[2016.12.06-21.02.35:189][148]LogFbx: Loading FBX Scene from F:/Pony_test_mp.fbx
+[2016.12.06-21.02.35:222][148]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.02.35:267][148]LogStaticMesh: Building static mesh Pony_test_mp...
+[2016.12.06-21.02.35:573][148]LogStaticMesh: Built static mesh [0.31s] /Game/Models/Pony_test_mp.Pony_test_mp
+[2016.12.06-21.02.35:626][148]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.06-21.07.23:140][731]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Pony_Test_02.TGA)
+[2016.12.06-21.07.23:700][731]LogTexture:Display: Building textures: Pony_Test_02 (AutoDXT)
+[2016.12.06-21.07.24:692][731]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Pony_Test_mp_02.FBX)
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.12.06-21.07.24:725][731]LogFbx: ItemName: Video, ItemCount : 1
+[2016.12.06-21.07.24:734][731]LogFbx: Loading FBX Scene from F:\Pony_Test_mp_02.FBX
+[2016.12.06-21.07.24:769][731]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.07.27:393][731]LogFbx: Loading FBX Scene from F:\Pony_Test_mp_02.FBX
+[2016.12.06-21.07.27:432][731]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.07.27:475][731]LogStaticMesh: Building static mesh Pony_Test_mp_02...
+[2016.12.06-21.07.27:782][731]LogStaticMesh: Built static mesh [0.31s] /Game/Models/Pony_Test_mp_02.Pony_Test_mp_02
+[2016.12.06-21.07.27:849][731]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.12.06-21.07.27:962][731]LogAssetTools:Warning: Failed to import 'F:\Pony_Test_skin.COPY'. Unknown extension 'COPY'.
+[2016.12.06-21.07.32:325][ 67]LogActorFactory: Actor Factory created Pony_Test_mp_02
+[2016.12.06-21.07.32:880][104]LogActorFactory: Actor Factory created Pony_Test_mp_02
+[2016.12.06-21.07.42:945][723]LogMaterial: Missing cached shader map for material Pony_Test_02_Mat, compiling. 
+[2016.12.06-21.07.58:358][345]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Users\weston.buck\Desktop\Pony_hp.fbx)
+[2016.12.06-21.07.58:371][345]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.06-21.07.58:371][345]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.06-21.07.58:372][345]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.06-21.07.58:372][345]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.06-21.07.58:372][345]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.12.06-21.07.58:372][345]LogFbx: ItemName: Video, ItemCount : 1
+[2016.12.06-21.07.58:384][345]LogFbx: Loading FBX Scene from D:\Users\weston.buck\Desktop\Pony_hp.fbx
+[2016.12.06-21.07.58:480][345]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.08.01:031][345]LogFbx: Loading FBX Scene from D:\Users\weston.buck\Desktop\Pony_hp.fbx
+[2016.12.06-21.08.01:135][345]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.08.01:344][345]LogStaticMesh: Building static mesh Pony_hp...
+[2016.12.06-21.08.02:858][345]LogStaticMesh: Built static mesh [1.51s] /Game/Models/Pony_hp.Pony_hp
+[2016.12.06-21.08.03:440][345]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Users\weston.buck\Desktop\Pony_lp.fbx)
+[2016.12.06-21.08.05:105][345]LogFbx: Loading FBX Scene from D:\Users\weston.buck\Desktop\Pony_lp.fbx
+[2016.12.06-21.08.05:133][345]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.06-21.08.05:158][345]LogStaticMesh: Building static mesh Pony_lp...
+[2016.12.06-21.08.05:438][345]LogStaticMesh: Built static mesh [0.28s] /Game/Models/Pony_lp.Pony_lp
+[2016.12.06-21.08.08:492][507]LogActorFactory: Actor Factory created Pony_lp
+[2016.12.06-21.08.08:918][529]LogActorFactory: Actor Factory created Pony_lp
+[2016.12.06-21.08.13:077][757]LogActorFactory: Actor Factory created Pony_hp
+[2016.12.06-21.08.13:495][777]LogActorFactory: Actor Factory created Pony_hp
+[2016.12.06-21.08.20:674][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pony_lp2)
+[2016.12.06-21.08.25:723][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.12.06-21.08.42:401][508]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mrman_humanBody_1)
+[2016.12.06-21.09.07:351][496]LogSavePackage: Save=1170.02ms
+[2016.12.06-21.09.07:351][496]LogSavePackage: Moving 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Saved/map1DA11D11D4FB432DB8FE49092C7C87EFC.tmp' to 'D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/FirstPersonBP/Maps/map1.umap'
+[2016.12.06-21.09.07:357][496]LogSavePackage:Display: Finished SavePackage D:/Users/weston.buck/Documents/GitHub/Team-Game-Multiplayer-Game/Content/FirstPersonBP/Maps/map1.umap
+[2016.12.06-21.09.07:414][496]LogFileHelpers: Saving map 'map1' took 3.686
+[2016.12.06-21.09.07:459][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Pony_hp" FILE="D:/Users/weston.
